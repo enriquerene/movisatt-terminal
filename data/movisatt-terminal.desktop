@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MoVisAtt Terminal
+GenericName=Terminal
+Comment=Really customizable and beautiful terminal
+Categories=Utility;
+Exec=com.github.enriquerene.movisatt-terminal
+Icon=com.github.enriquerene.movisatt-terminal
+Terminal=false
+Type=Application
+Keywords=Terminal;Customizable;Beautiful;

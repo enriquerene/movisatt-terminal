@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 Enrique René Beauxis Reyes <enriquerenebr@gmail.com> -->
+<component type="desktop">
+    <id>com.github.enriquerene.movisatt-terminal</id>
+    <metadata_license>CC0</metadata_license>
+    <name>MoVisAtt Terminal</name>
+    <summary>More Visually Attractive Terminal</summary>
+    <description>
+        <p>A terminal that makes you in command of theme, colors, fonts, sizes and widgets position in the screen.</p>
+    </description>
+</component>
